@@ -35,7 +35,7 @@ export default function Home() {
             <img
               alt="Eco-Drop recycling"
               className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
-              src="/eco-drop.jpeg?height=550&width=800"
+              src="/public/eco-drop.jpeg?height=550&width=800"
             />
           </div>
         </div>
