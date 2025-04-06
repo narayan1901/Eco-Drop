@@ -38,8 +38,8 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 import { ThemeProvider } from '@/components/theme-provider'
-import Navbar from '@/components/Navbar'
-import Footer from '@/components/Footer'
+import Navbar from '@/components/navbar'
+import Footer from '@/components/footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
